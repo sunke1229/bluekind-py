@@ -1,2 +1,0 @@
-# bluekind-py
-bluekind-py
